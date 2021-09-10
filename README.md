@@ -1,12 +1,10 @@
-<!-- <h1>This «thing» is under construction... 👨‍🎨</h1>
+<h1>This «thing» is under construction... 👨‍🎨</h1>
 
 ### Hi there, I'm Heorhii 👋
 
-- 🔭 I’m currently working on **a lot of different stuff**
+- 🔭 I’m currently studing **front-end web development**
 - 🌱 I’m currently learning **everything I can get my hands on**
-- 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **aksiuk.heorhii@gmail.com**
- -->
 
 ### My stack and tools
 
