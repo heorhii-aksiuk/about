@@ -1,6 +1,4 @@
-<h1>This «thing» is under construction...</h1>
-
-### Hi there, I'm Heorhii
+### Hello, I'm Heorhii
 
 - I’m currently studing **front-end web development**
 - How to reach me: **aksiuk.heorhii@gmail.com**
