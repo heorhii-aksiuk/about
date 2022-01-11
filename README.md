@@ -1,7 +1,7 @@
 ### Hello, I'm Heorhii
 
 - I’m **Front-End Web Developer**
-- I’m currently studying **React.JS**
+- I’m currently **open to work**
 - How to reach me: **aksiuk.heorhii@gmail.com**
 
 ### My stack and tools
