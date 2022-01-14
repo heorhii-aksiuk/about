@@ -1,6 +1,6 @@
 ### Hello, I'm Heorhii
 
-- I’m **Front-End Web developer**
+- I’m a **Front-End Web developer**
 - I’m currently **open to work**  
  
 **How to reach me**  
