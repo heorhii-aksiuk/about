@@ -4,8 +4,8 @@
 - I’m currently **open to work**  
  
 How to reach me  
-email: **aksiuk.heorhii@gmail.com**  
-LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk-359597221**  
+- email: **aksiuk.heorhii@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk-359597221**  
 
 
 
