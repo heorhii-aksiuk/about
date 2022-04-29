@@ -5,7 +5,7 @@
  
 **How to reach me**  
 - Email: **aksiuk.heorhii@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk-359597221**  
+- LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**  
 
 
 
