@@ -1,7 +1,7 @@
 ### Hello, I'm Heorhii
 
-- I’m a **Full Stack Web developer**
-- I’m currently **open to work as Front-End Developer**  
+- I’m a **Front-End Developer (React) with Full Stack skills (Node.js)**
+- I’m currently **open to work**  
  
 **How to reach me**  
 - Email: **aksiuk.heorhii@gmail.com**  
