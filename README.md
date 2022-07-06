@@ -1,7 +1,8 @@
-### Hello, I'm Heorhii
+### Hello, I am Heorhii
 
-- I’m a **Front-End Developer with a focus on React and with Full Stack skills (MERN Stack)**
-- I’m currently **open to work**  
+- I am a **Front-End Developer with a focus on React and with Full Stack skills (MERN Stack)**
+- I am currently **improving and expanding my knowledge and experience in React and JavaScript and also learning TypeScript** 
+- I am **open to work**
  
 **How to reach me**  
 - Email: **aksiuk.heorhii@gmail.com**  
