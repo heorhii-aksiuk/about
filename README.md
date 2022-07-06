@@ -5,8 +5,8 @@
 - I am **open to work**
  
 ### How to reach me
-- Email: **aksiuk.heorhii@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**  
+- Email: **aksiuk.heorhii@gmail.com**  
 
 ### My stack and tools
 
