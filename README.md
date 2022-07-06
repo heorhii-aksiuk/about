@@ -4,11 +4,9 @@
 - I am currently improving and expanding my knowledge and experience in **React** and **JavaScript** and also learning **TypeScript** 
 - I am **open to work**
  
-**How to reach me**  
+### How to reach me
 - Email: **aksiuk.heorhii@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**  
-
-
 
 ### My stack and tools
 
