@@ -1,6 +1,6 @@
 ### Hello, I'm Heorhii
 
-- I’m a **Front-End Developer (React) with Full Stack skills (Node.js)**
+- I’m a **Front-End Developer with a focus on React and with Full Stack skills (MERN Stack)**
 - I’m currently **open to work**  
  
 **How to reach me**  
