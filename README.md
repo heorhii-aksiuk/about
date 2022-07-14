@@ -24,6 +24,8 @@
 
 <img align="left" alt="JSS" height="32px" src="https://raw.githubusercontent.com/jsstyles/logo/master/logo.png" />
 
+<img align="left" alt="JSS" height="32px" src="./JSS.png" />
+
 
 
 
