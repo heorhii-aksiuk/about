@@ -22,7 +22,7 @@
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="JSS" height="32px" src="./JSS.png" />
+<img align="left" alt="JSS" height="32px" src="./jss.png" />
 
 <img align="left" alt="Redux" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
