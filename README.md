@@ -24,13 +24,17 @@
 
 <img align="left" alt="JSS" height="32px" src="https://raw.githubusercontent.com/jsstyles/logo/master/logo.png" />
 
-<img align="left" alt="Node.js" height="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
-<img align="left" alt="Git" height="32px" src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
+
+
 
 <img align="left" alt="Redux" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
 <img align="left" alt="Jest" height="32px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" />
+
+<img align="left" alt="Node.js" height="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+
+<img align="left" alt="Git" height="32px" src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
 
 <img align="left" alt="GitHub" height="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
