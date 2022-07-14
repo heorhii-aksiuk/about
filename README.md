@@ -20,7 +20,7 @@
 
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JSS" height="32px" src="./jss.png" />
+<img align="left" alt="JSS" height="32px" src="./JSS.png" />
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
@@ -39,11 +39,6 @@
 <img alt="Terminal" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Postman" height="32px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
-
-
-
-
-
 
 <!-- <img align="left" alt="PostgreSQL" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
 
