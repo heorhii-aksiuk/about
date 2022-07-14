@@ -1,4 +1,4 @@
-## Hello, I am Heorhii <img align="center" alt="My logo" width="26px" title ="My logo" src="./logo192.png" />
+## Hello, I am Heorhii <img alt="My logo" width="50px" title ="My logo" src="./logo192.png" />
 
 - I am a **Front-End Developer** with a focus on **React** and with **Full Stack** skills (**MERN Stack**)
 - I am currently improving and expanding my knowledge and experience in **React**
