@@ -2,7 +2,6 @@
 
 - I am a **Front-End Developer** with a focus on **React** and with **Full Stack** skills (**MERN Stack**)
 - I am currently improving and expanding my knowledge and experience in **React**
-- Open to work
  
  ### How to reach me:
 - LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**  
