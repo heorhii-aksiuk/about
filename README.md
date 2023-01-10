@@ -1,7 +1,7 @@
 ## Hello, I am Heorhii <img align="right" alt="My logo" width="64px" title ="My logo" src="./logo192.png" />
 
 - I am a **Front-End Developer** with a focus on **React** and with **Full Stack** skills (**MERN Stack**)
-- I am currently improving and expanding my knowledge and experience in **React**
+<!-- - I am currently improving and expanding my knowledge and experience in **React** -->
  
  ### How to reach me:
 - LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**  
