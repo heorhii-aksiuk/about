@@ -27,7 +27,7 @@
 
 <img align="left" alt="Redux" height="32px" title ="Redux"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img align="left" alt="Jest" height="32px" title ="Jest"  src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" />
+<!-- <img align="left" alt="Jest" height="32px" title ="Jest"  src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" /> -->
 
 
 <img align="left" alt="Git" height="32px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
