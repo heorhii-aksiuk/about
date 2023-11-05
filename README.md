@@ -57,11 +57,13 @@
 
 <img align="left" alt="Jest" height="40px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
 
-<img align="left" alt="Sass" width="40px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Docker" title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <img align="left" alt="Bootstrap" width="40px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 
-<img alt="Docker" title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left"  alt="Ant Design" width="40px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
+
+<img alt="Sass" width="40px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 ## Currently learning:
 
