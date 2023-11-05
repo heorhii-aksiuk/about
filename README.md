@@ -73,9 +73,13 @@
 
 <!-- <img align="left" alt="MySQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
 
+
+
+<!--
+
 ---
 
-## Experience working with technologies by years (since):
+ ## Experience working with technologies by years (since):
 
 > 2021
 
@@ -101,4 +105,4 @@
 
 > 2023
 
-<img align="left" alt="TypeScript" width="30px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="TypeScript" width="30px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> -->
