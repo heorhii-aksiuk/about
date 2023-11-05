@@ -1,13 +1,15 @@
 ## Hello, I am Heorhii
 
-- I am a **Front-End Developer** with a focus on **React** using **TypeScript** and with **Full Stack** skills (**MERN Stack**)
-<!-- - I am currently improving and expanding my knowledge and experience in **React** -->
+- I am a ** Front-End Developer** with a focus on **React** using **TypeScript** and with **Full Stack** skills (**MERN Stack**)
+- 2.5+ years of experience
+- 1 year of commercial experience
+- Currently learning **Next js**
  
  ### How to reach me:
 - LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**  
 - Email: **aksiuk.heorhii@gmail.com**  
 
-### My main stack and tools:
+### Main stack and tools:
 
 <img align="left" alt="JavaScript" width="32px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
