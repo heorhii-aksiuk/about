@@ -25,8 +25,6 @@
 
 <img align="left" alt="CSS3" width="40px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Sass" width="40px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="JSS" height="40px" title ="CSS-in-JS"  src="./JSS.png" />
 
 <img align="left" alt="Node.js" height="40px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
@@ -48,6 +46,18 @@
 <img align="left" alt="Visual Studio Code" height="40px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img alt="Terminal" height="40px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+## Also worked with
+
+<img align="left" alt="Gatsby.js" title="Gatsby.js" height="40px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
+
+<img align="left" alt="Sass" width="40px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left"  alt="Handlebars" width="40px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
+
+<img align="left" alt="Jest" height="40px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
+
+<img alt="Docker" title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 ## Currently learning:
 
