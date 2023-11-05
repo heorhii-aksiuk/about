@@ -29,7 +29,7 @@
 
 <img align="left" alt="Node.js" height="32px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
-<img align="left" alt="Express.js" title ="Express.js" height="32px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
+<img align="left" alt="Express.js" title ="Express.js" height="32px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
 <img align="left" alt="MongoDB" title ="MongoDB" height="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
