@@ -57,6 +57,8 @@
 
 <img align="left" alt="Jest" height="40px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
 
+<img align="left" alt="Parcel" height="40px" title ="Parcel" src="https://uk.parceljs.org/assets/parcel-front.png" />
+
 <img align="left" alt="Docker" title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <img align="left" alt="Bootstrap" width="40px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
@@ -72,8 +74,6 @@
 <!-- <img align="left" alt="PostgreSQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
 
 <!-- <img align="left" alt="MySQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
-
-
 
 <!--
 
