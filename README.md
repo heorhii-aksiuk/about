@@ -33,8 +33,6 @@
 
 <img alt="MongoDB" title ="MongoDB" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
----
-
 #### Main tools:
 
 <img align="left" alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
@@ -53,8 +51,6 @@
 
 <img alt="Terminal" height="40px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
----
-
 #### Also worked with:
 
 <img align="left" alt="Gatsby.js" title="Gatsby.js" height="35px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
@@ -72,8 +68,6 @@
 <img align="left"  alt="Ant Design" width="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 
 <img alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
----
 
 #### Currently learning:
 
