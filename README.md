@@ -61,7 +61,7 @@
 
 ## Experience working with technologies by years (since):
 
-### 2021
+### >2021
 
 <img align="left" alt="HTML5" width="30px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -75,7 +75,7 @@
 
 <img alt="Redux" height="30px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
-### 2022
+### >2022
 
 <img align="left" alt="Node.js" height="30px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
@@ -83,6 +83,6 @@
 
 <img alt="JSS" height="30px" title ="CSS-in-JS"  src="./JSS.png" />
 
-### 2023
+### >2023
 
 <img align="left" alt="TypeScript" width="30px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
