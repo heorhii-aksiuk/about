@@ -4,7 +4,7 @@
   and with **Full Stack** skills (**MERN Stack**)
 - 2.5+ years of **Web Development** experience
 - 1 year of **React/TypeScript** commercial experience
-- I'm currently open to work
+- I'm currently **open to work**
 
 ## How to reach me:
 
