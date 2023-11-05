@@ -31,7 +31,11 @@
 
 <img align="left" alt="Express.js" title ="Express.js" height="32px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 
+<img align="left" alt="Mongoose.js" title ="Mongoose.js" height="32px" src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" />
+
 <img alt="MongoDB" title ="MongoDB" height="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
+
+
 
 <!-- <img align="left" alt="Jest" height="32px" title ="Jest"  src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" /> -->
 
