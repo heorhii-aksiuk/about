@@ -49,7 +49,7 @@
 
 <img alt="Terminal" height="40px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-## Also worked with:
+### Also worked with:
 
 <img align="left" alt="Gatsby.js" title="Gatsby.js" height="35px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
 
@@ -67,7 +67,7 @@
 
 <img alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-## Currently learning:
+### Currently learning:
 
 <img alt="Next.js" title="Next.js" height="35px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 
