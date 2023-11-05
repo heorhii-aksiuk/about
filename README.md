@@ -1,4 +1,4 @@
-## **Hello, I am Heorhii**
+# Hello, I am Heorhii
 
 - I am a **Front-End Developer** with a focus on **React** using **TypeScript**
   and with **Full Stack** skills (**MERN Stack**)
@@ -6,7 +6,7 @@
 - 1 year of **React/TypeScript** commercial experience
 - Currently learning **Next.js**
 
-### **How to reach me:**
+## How to reach me:
 
 - LinkedIn: **https://www.linkedin.com/in/heorhii-aksiuk/**
 - Email: **aksiuk.heorhii@gmail.com**
@@ -75,7 +75,7 @@
 
 <img alt="Redux" height="30px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
-> ### 2022
+> 2022
 
 <img align="left" alt="Node.js" height="30px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
@@ -83,6 +83,6 @@
 
 <img alt="JSS" height="30px" title ="CSS-in-JS"  src="./JSS.png" />
 
-> ## 2023
+> 2023
 
 <img align="left" alt="TypeScript" width="30px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
