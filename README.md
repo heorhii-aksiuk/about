@@ -43,9 +43,9 @@
 
 <img align="left" alt="Postman" height="32px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 
-<img align="left" alt="Visual Studio Code" height="32px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="Chrome DevTools" title ="Chrome DevTools" height="32px" src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png" />
+
+<img align="left" alt="Visual Studio Code" height="32px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img alt="Terminal" height="32px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
