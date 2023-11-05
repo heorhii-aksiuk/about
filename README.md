@@ -49,7 +49,7 @@
 
 <img alt="Terminal" height="32px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-### Currently learning
+### Currently learning:
 
 <img align="left" alt="Next.js" title="Next.js" height="32px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 
