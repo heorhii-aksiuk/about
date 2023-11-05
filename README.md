@@ -67,23 +67,23 @@
 
 <img align="left" alt="Sass" width="24px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="JavaScript" width="32px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="24px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="24px" title ="React"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img alt="Redux" height="32px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+<img alt="Redux" height="24px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
 #### 2022
 
 <img align="left" alt="Node.js" height="24px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
-<img align="left" alt="MongoDB" title ="MongoDB" height="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
+<img align="left" alt="MongoDB" title ="MongoDB" height="24px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
 <img alt="JSS" height="24px" title ="CSS-in-JS"  src="./JSS.png" />
 
 ## 2023
 
-<img align="left" alt="TypeScript" width="32px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="TypeScript" width="24px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 
 
