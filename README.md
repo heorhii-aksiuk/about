@@ -34,7 +34,7 @@
 <img align="left"  alt="MongoDB" title ="MongoDB" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
 <br/>
-«-------------------------»
+«"                                                     "»
 
 #### Main tools:
 
@@ -55,7 +55,7 @@
 <img  align="left"  alt="Terminal" height="40px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
-«-------------------------»
+«"                                                     "»
 
 #### Also worked with:
 
