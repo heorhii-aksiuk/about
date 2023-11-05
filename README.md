@@ -51,7 +51,7 @@
 
 ### Currently learning
 
-<img align="left" alt="Next.js" title="Next.js" height="32px" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" />
+<img align="left" alt="Next.js" title="Next.js" height="32px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 
 
 <!-- <img align="left" alt="PostgreSQL" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
