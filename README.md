@@ -17,6 +17,8 @@
 
 <img align="left" alt="React" width="32px" title ="React"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<img align="left" alt="Redux" height="32px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+
 <img align="left" alt="HTML5" width="32px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="32px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -24,8 +26,6 @@
 <img align="left" alt="Sass" width="32px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
-
-<img align="left" alt="Redux" height="32px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
 <img align="left" alt="Node.js" height="32px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
