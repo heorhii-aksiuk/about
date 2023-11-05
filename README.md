@@ -27,17 +27,19 @@
 
 <img align="left" alt="JSS" height="40px" title ="CSS-in-JS"  src="./JSS.png" />
 
-<img align="left" alt="Node.js" height="40px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 
 <img alt="MongoDB" title ="MongoDB" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
-
-<!-- <img align="left" alt="Jest" height="40px" title ="Jest"  src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" /> -->
 
 ## Main tools:
 
 <img align="left" alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
 
 <img align="left" alt="GitHub" height="40px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Node.js" height="40px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+
+<img align="left" alt="npm" height="40px" title ="npm" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 
 <img align="left" alt="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 
@@ -51,11 +53,13 @@
 
 <img align="left" alt="Gatsby.js" title="Gatsby.js" height="40px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
 
-<img align="left" alt="Sass" width="40px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left"  alt="Handlebars" width="40px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
 
 <img align="left" alt="Jest" height="40px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
+
+<img align="left" alt="Sass" width="40px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left" alt="Bootstrap" width="40px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 
 <img alt="Docker" title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
