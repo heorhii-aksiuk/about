@@ -17,8 +17,6 @@
 
 <img align="left" alt="React" width="32px" title ="React"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="Node.js" height="32px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-
 <img align="left" alt="HTML5" width="32px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="32px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,6 +26,8 @@
 <img align="left" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
 
 <img align="left" alt="Redux" height="32px" title ="Redux"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+
+<img align="left" alt="Node.js" height="32px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
 <img align="left" alt="Express.js" title ="Express.js" height="32px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 
