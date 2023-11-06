@@ -27,11 +27,7 @@
 
 <img align="left" alt="CSS3" width="40px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JSS" height="40px" title ="CSS-in-JS"  src="./JSS.png" />
-
-<img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
-
-<img alt="MongoDB" title ="MongoDB" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
+<img alt="JSS" height="40px" title ="CSS-in-JS"  src="./JSS.png" />
 
 - #### Main tools:
 
@@ -60,6 +56,10 @@
 <img align="left" alt="Jest" height="35px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
 
 <img align="left" alt="Parcel" height="35px" title ="Parcel" src="https://uk.parceljs.org/assets/parcel-front.png" />
+
+<img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
+
+<img align="left" alt="MongoDB" title ="MongoDB" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
 <img align="left" alt="Docker" title="Docker" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
