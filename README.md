@@ -37,8 +37,6 @@
 
 <img align="left" alt="Node.js" height="40px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 
-<img align="left" alt="npm" height="40px" title ="npm" src="https://authy.com/wp-content/uploads/npm-logo.png" />
-
 <img align="left" alt="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 
 <img align="left" alt="Chrome DevTools" title ="Chrome DevTools" height="40px" src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png" />
@@ -70,6 +68,8 @@
 <img alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <!--
+
+<img align="left" alt="npm" height="40px" title ="npm" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 
 - #### Currently learning:
 
