@@ -1,6 +1,6 @@
 # Hello, I am Heorhii
 
-- I am a **Front-End Developer** with a focus on **React** using **TypeScript**
+- I'm a **Front-End Developer** with a focus on **React** using **TypeScript**
   and with **Full Stack** skills (**MERN Stack**)
 - 2.5+ years of **Web Development** experience
 - 1 year of **React/TypeScript** commercial experience
