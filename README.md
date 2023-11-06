@@ -13,7 +13,7 @@
 
 ---
 
-#### Main stack:
+- #### Main stack:
 
 <img align="left" alt="JavaScript" width="40px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-#### Main tools:
+- #### Main tools:
 
 <img align="left" alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
 
@@ -55,7 +55,7 @@
 
 <br/>
 
-#### Also worked with:
+- #### Also worked with:
 
 <img align="left" alt="Gatsby.js" title="Gatsby.js" height="35px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
 
@@ -75,13 +75,9 @@
 
 <br/>
 
-#### Currently learning:
+- #### Currently learning:
 
 <img   align="left" alt="Next.js" title="Next.js" height="35px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
-
-<!-- <img align="left" alt="PostgreSQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
-
-<!-- <img align="left" alt="MySQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
 
 <!--
 
