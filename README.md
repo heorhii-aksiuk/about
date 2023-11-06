@@ -1,6 +1,6 @@
 # Hello, I am Heorhii
 
-- I am a **Front-End Developer** with a focus on **React** using **TypeScript**
+- I'm a **Front-End Developer** with a focus on **React** using **TypeScript**
   and with **Full Stack** skills (**MERN Stack**)
 - 2.5+ years of **Web Development** experience
 - 1 year of **React/TypeScript** commercial experience
@@ -31,21 +31,19 @@
 
 - #### Main tools:
 
-<img align="left" alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
-
-<img align="left" alt="GitHub" height="40px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <img align="left" alt="Node.js" height="40px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-
-<img align="left" alt="npm" height="40px" title ="npm" src="https://authy.com/wp-content/uploads/npm-logo.png" />
-
-<img align="left" alt="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 
 <img align="left" alt="Chrome DevTools" title ="Chrome DevTools" height="40px" src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png" />
 
+<img align="left" alt="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
+
 <img align="left" alt="Visual Studio Code" height="40px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img alt="Terminal" height="40px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" height="40px" title ="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img align="left" alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
+
+<img alt="GitHub" height="40px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 - #### Also worked with:
 
@@ -69,11 +67,14 @@
 
 <img alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
+<!--
+
+<img align="left" alt="npm" height="40px" title ="npm" src="https://authy.com/wp-content/uploads/npm-logo.png" />
+
 - #### Currently learning:
 
 <img alt="Next.js" title="Next.js" height="35px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 
-<!--
 
 ---
 
