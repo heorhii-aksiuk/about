@@ -55,6 +55,8 @@
 
 <img align="left" alt="Parcel" height="35px" title ="Parcel" src="https://uk.parceljs.org/assets/parcel-front.png" />
 
+<img align="left" alt="Vite" height="35px" title ="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" />
+
 <img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 
 <img align="left" alt="MongoDB" title ="MongoDB" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
