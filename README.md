@@ -55,6 +55,8 @@
 
 <img align="left" alt="Parcel" height="35px" title ="Parcel" src="https://uk.parceljs.org/assets/parcel-front.png" />
 
+<img align="left" alt="Webpack" height="35px" title ="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+
 <img align="left" alt="Vite" height="35px" title ="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" />
 
 <img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
