@@ -23,6 +23,8 @@
 
 <img align="left" alt="Redux" height="40px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
+<img alt="Next.js" title="Next.js" height="35px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
+
 <img align="left" alt="HTML5" width="40px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="40px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
