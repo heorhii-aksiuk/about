@@ -1,7 +1,7 @@
 # Hi, I am Heorhii a.k.a [Aytivets](https://github.com/aytivets)
 
-- I'm a **Full Stack Software Engineer** with a focus on **Front-End**
-- **2.5+ years** of Web Development experience
+- I'm a **Full Stack Software Engineer** with a primary focus on **Front-End**
+- **2.5+ years** experience in Web Development 
 - **1 year** of Front End (TypeScript | React) **commercial** experience
 - I'm currently **open to work** as freelancer or in your cool product/outsource
   company
