@@ -1,5 +1,5 @@
 # Hi, I am Heorhii 
-My frilance brand [Aytivets](https://github.com/aytivets)
+My freelance brand [Aytivets](https://github.com/aytivets)
 
 - I'm a **Front-End Developer** with a focus on **React** using **TypeScript**
   and with **Full Stack** skills (**MERN Stack**)
