@@ -31,7 +31,7 @@ My alias and freelance "brand" - [Aytivets](https://github.com/aytivets)
 <img align="left" alt="Node.js" height="40px" title ="Node.js" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
 
-<img align="left" alt="GitHub" height="40px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" height="40px" title ="GitHub"  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Vercel" title ="Vercel" height="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" />
 <img align="left" alt="Chrome DevTools" title ="Chrome DevTools" height="40px" src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png" />
 <img alt="Postman"  title ="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
