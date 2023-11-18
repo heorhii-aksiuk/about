@@ -1,8 +1,7 @@
 # Hi, I am Heorhii 
 My freelance brand [Aytivets](https://github.com/aytivets)
 
-- I'm a **Front-End Developer** with a focus on **React** using **TypeScript**
-  and with **Full Stack** skills (**MERN Stack**)
+- I'm a **Full Stack Software Engineer** with a focus on **Front-End** using **TypeScript** with **React** and **Next.js**
 - **2.5+ years** of Web Development experience
 - **1 year** of React/TypeScript **commercial** experience
 - I'm currently **open to work**
