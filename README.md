@@ -46,12 +46,12 @@ My alias and freelance "brand" [Aytivets](https://github.com/aytivets)
 <img align="left" alt="Socket.io" height="40px" title ="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/640px-Socket-io.svg.png" />
 <img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 <img align="left" alt="Jest" height="35px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
-<img align="left"  alt="Handlebars" width="35px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
+<img alt="Handlebars" width="35px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
 
-<img alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JSS" height="40px" title ="CSS-in-JS"  src="./icons/jss.svg" />
 <img align="left" alt="Bootstrap" width="35px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
-<img align="left" alt="Ant Design" width="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
+<img alt="Ant Design" width="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 
 <img align="left" alt="Docker" title="Docker" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Cloudinary" width="35px" title ="Cloudinary"  src="https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15,co_rgb:0B70B6/c_pad,ar_1.0/w_200,f_auto,q_auto/cloudinary_icon.png" />
