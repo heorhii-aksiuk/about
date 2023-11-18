@@ -41,16 +41,15 @@ My alias and freelance "brand" [Aytivets](https://github.com/aytivets)
 <img align="left" alt="Webpack" height="35px" title ="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Parcel" height="35px" title ="Parcel" src="https://uk.parceljs.org/assets/parcel-front.png" />
 <img align="left" alt="Vite" height="35px" title ="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" />
-<img align="left" alt="Gatsby.js" title="Gatsby.js" height="35px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
+<img alt="Gatsby.js" title="Gatsby.js" height="35px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
 
-<img align="left" alt="Socket.io" height="40px" title ="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/640px-Socket-io.svg.png
-" />
+<img align="left" alt="Socket.io" height="40px" title ="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/640px-Socket-io.svg.png" />
 <img align="left" alt="Express.js" height="40px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 <img align="left" alt="Jest" height="35px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
 <img align="left"  alt="Handlebars" width="35px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
 
 <img alt="Sass" width="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img alt="JSS" height="40px" title ="CSS-in-JS"  src="./icons/jss.svg" />
+<img align="left" alt="JSS" height="40px" title ="CSS-in-JS"  src="./icons/jss.svg" />
 <img align="left" alt="Bootstrap" width="35px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Ant Design" width="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 
