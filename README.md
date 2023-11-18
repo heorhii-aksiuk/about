@@ -1,4 +1,4 @@
-# Hi, I am Heorhii a.k.a [Aytivets](https://github.com/aytivets)
+# Hi, I am Heorhii
 
 - **Full Stack Software Engineer** with a primary focus on **Front End**
 - **2.5+ years** of experience in **Web Development**
