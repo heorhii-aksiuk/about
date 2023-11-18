@@ -14,21 +14,14 @@ My freelance brand [Aytivets](https://github.com/aytivets)
 ---
 
 - #### Main stack:
-
-<img align="left" alt="JavaScript" width="40px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 <img align="left" alt="TypeScript" width="40px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
+<img align="left" alt="JavaScript" width="40px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" title ="React"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Next.js" title="Next.js" height="40px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 
 <img align="left" alt="Redux" height="40px" title ="Redux"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-
-<img align="left" alt="Next.js" title="Next.js" height="40px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
-
 <img align="left" alt="HTML5" width="40px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
 <img align="left" alt="CSS3" width="40px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
 <img alt="JSS" height="40px" title ="CSS-in-JS"  src="./icons/jss.svg" />
 
 - #### Main tools:
