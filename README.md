@@ -3,7 +3,7 @@
 - I'm a **Full Stack Software Engineer** with a focus on **Front-End** using **TypeScript** with **React** and **Next.js**
 - **2.5+ years** of Web Development experience
 - **1 year** of React/TypeScript **commercial** experience
-- My alias and freelance "brand" - [**Aytivets**](https://github.com/aytivets)
+<!-- - My alias and freelance "brand" - [**Aytivets**](https://github.com/aytivets) -->
 - I'm currently **open to work**
 
 ## How to reach me:
