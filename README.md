@@ -32,9 +32,10 @@
 <img alt="Git" height="40px" title ="Git"  src="https://blog.kakaocdn.net/dn/VwCrS/btqG7q5dOL0/Rj7ChN2BlCQaI76QiQllFk/img.png" />
 
 <img align="left" alt="GitHub" height="40px" title ="GitHub"  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img align="left" alt="Vercel" title ="Vercel" height="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" />
+
 <img align="left" alt="Chrome DevTools" title ="Chrome DevTools" height="40px" src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png" />
-<img alt="Postman"  title ="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
+<img align="left" alt="Postman"  title ="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
+<img alt="Vercel" title ="Vercel" height="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" />
 
 - #### Also worked with:
 
@@ -44,11 +45,11 @@
 <img align="left" alt="Gatsby.js" title="Gatsby.js" height="35px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
 <img alt="Express.js" height="35px" title ="Express.js"  src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 
-<img align="left" alt="Handlebars" height="35px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
 <img align="left" alt="Sass" height="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JSS" height="35px" title ="CSS-in-JS"  src="./icons/jss.svg" />
 <img align="left" alt="Bootstrap" height="35px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
-<img alt="Ant Design" height="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
+<img align="left" alt="Ant Design" height="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
+<img alt="Handlebars" height="35px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
 
 <img align="left" alt="Socket.io" height="35px" title ="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/640px-Socket-io.svg.png" />
 <img align="left" alt="Jest" height="35px" title ="Jest" src="https://www.svgrepo.com/show/353930/jest.svg" />
