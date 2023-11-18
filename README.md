@@ -1,5 +1,5 @@
 # Hi, I am Heorhii 
-My alias and freelance "brand" [Aytivets](https://github.com/aytivets)
+My alias and freelance "brand" - [Aytivets](https://github.com/aytivets)
 
 - I'm a **Full Stack Software Engineer** with a focus on **Front-End** using **TypeScript** with **React** and **Next.js**
 - **2.5+ years** of Web Development experience
