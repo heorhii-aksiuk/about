@@ -1,6 +1,6 @@
 # Hi, I am Heorhii
 
-- **Full Stack Software Engineer** with a primary focus on **Front End**
+- **Software Engineer** with a primary focus on **Front End**
 - **2.5+ years** of experience in **Web Development**
 - **1+ year** of **commercial** experience in Front End (TypeScript | React)
 - Currently **open to work** as a freelancer or in your **cool** product/outsource company
