@@ -47,7 +47,7 @@
 <img align="left" alt="Sass" height="35px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JSS" height="35px" title ="CSS-in-JS"  src="./icons/jss.svg" />
 <!-- <img align="left" alt="Bootstrap" height="35px" title ="Bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" /> -->
-<img align="left" alt="TailwindCSS" height="35px" title ="TailwindCSS"  src="https://cottonbureau.com/image?path=sellers%2Foriginals%2F79668_tailwind-labs_MP6W.png" />
+<img align="left" alt="TailwindCSS" height="35px" title ="TailwindCSS"  src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" />
 <img align="left" alt="Ant Design" height="35px" title ="Ant Design"  src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 <img alt="Handlebars" height="35px" title ="Handlebars"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_wordmark_logo_icon_146484.png" />
 
