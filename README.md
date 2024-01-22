@@ -36,7 +36,7 @@
 <img align="left" alt="Postman"  title ="Postman" height="40px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 <img alt="Vercel" title ="Vercel" height="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" />
 
-- #### Also worked with:
+- #### Also work with:
 
 <img align="left" alt="Webpack" height="35px" title ="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Parcel" height="35px" title ="Parcel" src="https://uk.parceljs.org/assets/parcel-front.png" />
