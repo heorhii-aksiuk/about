@@ -3,7 +3,7 @@
 - **Software Engineer** with current primary focus on **Front End**
 - **2.5+ years** of experience in **Web Development**
 - **1+ year** of **commercial** experience in Front End (TypeScript | React)
-- Currently **open to work** as a freelancer or in your **cool** product/outsource company
+- Currently **open to work**
 
 ## How to reach me:
 
