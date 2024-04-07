@@ -1,8 +1,8 @@
 # Hi, I am Heorhii
 
-- **Software Engineer** with current primary focus on **Front End**
+- **Software Engineer** with current primary focus on **Frontend**
 - **3+ years** of experience in **Web Development**
-- **1.5+ years** of **commercial** experience in Front End (TypeScript | React)
+- **1.5+ years** of **commercial** experience in Frontend (TypeScript | React)
 
 ## How to reach me:
 
